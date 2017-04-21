@@ -1,6 +1,6 @@
 # CmBacktrace: ARM Cortex-M 系列 MCU 错误追踪库
 
-[![GitHub release](https://img.shields.io/github/release/armink/CmBacktrace.svg)](https://github.com/armink/CmBacktrace/releases/latest) [![GitHub commits](https://img.shields.io/github/commits-since/armink/CmBacktrace/0.1.0.svg)](https://github.com/armink/CmBacktrace/0.1.0...master) [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/armink/CmBacktrace/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/armink/CmBacktrace.svg)](https://github.com/armink/CmBacktrace/releases/latest) [![GitHub commits](https://img.shields.io/github/commits-since/armink/CmBacktrace/0.2.0.svg)](https://github.com/armink/CmBacktrace/compare/0.2.0...master) [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/armink/CmBacktrace/master/LICENSE)
 
 ## 0、CmBacktrace 是什么
 
@@ -56,9 +56,11 @@
 |目录|平台|链接|
 |:--|:--:|:--:|
 | `\demos\non_os\stm32f10x` |裸机 STM32 Cortex-M3|[点击查看](https://github.com/armink/CmBacktrace/tree/master/demos/non_os/stm32f10x)|
-| `\demos\os\freertos\stm32f10x` |FreeRTOS STM32 Cortex-M3|[点击查看](https://github.com/armink/CmBacktrace/tree/master/demos/os/freertos/stm32f10x)|
-| `\demos\os\ucosii\stm32f20x` |UCOSII STM32 Cortex-M3|[点击查看](https://github.com/armink/CmBacktrace/tree/master/demos/os/ucosii/stm32f20x)|
 | `\demos\os\rtthread\stm32f4xx`|RT-Thread STM32 Cortex-M4|[点击查看](https://github.com/armink/CmBacktrace/tree/master/demos/os/rtthread/stm32f4xx)|
+| `\demos\os\ucosii\stm32f10x` |UCOSII STM32 Cortex-M3|[点击查看](https://github.com/armink/CmBacktrace/tree/master/demos/os/ucosii/stm32f10x)|
+| `\demos\os\freertos\stm32f10x` |FreeRTOS STM32 Cortex-M3|[点击查看](https://github.com/armink/CmBacktrace/tree/master/demos/os/freertos/stm32f10x)|
+
+
 
 ### 2.3 移植说明
 
